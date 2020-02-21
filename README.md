@@ -1,5 +1,4 @@
 # Javascript Functions IC
-
 ### Exercise 1:
 - Ask the user to enter two numbers
 - Create a function that takes two numbers and retruns the sum
